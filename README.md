@@ -541,7 +541,7 @@ You can customize your own configuration and find out more details about it. �
 
 Thanks ❣️ to [ThePrimeagen | Github](https://github.com/ThePrimeagen) || [ThePrimeagen | Twitter](https://x.com/ThePrimeagen?s=20) for making [video](https://www.youtube.com/watch?v=w7i4amO_zaE) on nvim configuraion
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/underscoore/nvim-config.github.io/blob/main/LICENSE)
 
 [MD Badges Help! ](https://github.com/Ileriayo/markdown-badges/blob/master/README.md#tips) | [MD License Help!](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
